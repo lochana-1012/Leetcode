@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lochana-1012/Leetcode/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/lochana-1012/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
