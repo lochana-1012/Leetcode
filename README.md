@@ -18,4 +18,8 @@
 | [0178-rank-scores](https://github.com/lochana-1012/Leetcode/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/lochana-1012/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/lochana-1012/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lochana-1012/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
