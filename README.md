@@ -41,4 +41,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lochana-1012/Leetcode/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/lochana-1012/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/lochana-1012/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
